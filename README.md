@@ -29,15 +29,14 @@
 
 
 <span>
-![](https://img.shields.io/badge/Tools-NPM-informational?style=plastic&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=plastic&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=Postman&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=plastic&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=plastic&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+<img alt="NPM" src="https://img.shields.io/badge/Tools-NPM-informational?style=plastic&logo=NPM&color=CB3837"/>
+<img alt="Yarn" src="https://img.shields.io/badge/Tools-Yarn-informational?style=plastic&logo=Yarn&color=2C8EBB"/>
+<img alt="Postman" src="https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=Postman&color=FF6C37"/>
+<img alt="Heroku" src="https://img.shields.io/badge/Tools-Heroku-informational?style=plastic&logo=Heroku&color=430098"/>
+<img alt="Netlify" src="https://img.shields.io/badge/Tools-Netlify-informational?style=plastic&logo=netlify&color=00C7B7"/>
+<img alt="Git" src="https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=Git&color=F05032"/>
+<img alt="Github" src="https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&color=181717"/>
 </span>
-
 
 ## 📈 GitHub Stats 
 
