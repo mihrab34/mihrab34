@@ -27,8 +27,6 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Style-Bootstrap-7952B3?logo=css3&logoColor=7952B3&style=plastic"/>
 </span>
 
-</br>
-
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=plastic&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=plastic&logo=Yarn&color=2C8EBB)
@@ -37,5 +35,11 @@
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=plastic&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## 📈 GitHub Stats 
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mihrab34)](https://github.com/mihrab34)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mihrab34.mihrab34)]
 
 
