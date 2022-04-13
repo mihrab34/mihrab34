@@ -27,7 +27,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Style-Bootstrap-7952B3?logo=css3&logoColor=7952B3&style=plastic"/>
 </span>
 
-
+<br/>
 
 <span>
 <img alt="NPM" src="https://img.shields.io/badge/Tools-NPM-informational?style=plastic&logo=NPM&color=CB3837"/>
