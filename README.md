@@ -45,6 +45,6 @@
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mihrab34)](https://github.com/mihrab34)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mihrab34.mihrab34)]
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mihrab34.mihrab34)
 
 
