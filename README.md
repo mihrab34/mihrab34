@@ -8,8 +8,7 @@
 
 <p>I love and enjoy the entire process of developing creative websites. I love the challenge of solving problems, fixing errors and spending time to meet new people. </p>
 
-**Technical Skills**
-
+## 💼 Technical Skills
 <span><img alt=”React” src="https://img.shields.io/badge/Code-ReactJs-61DAFB?logo=react&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby Router" src="https://img.shields.io/badge/Code-React%20Router-CA4245?logo=rubyonrails&logoColor=CA4245&style=plastic"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=JavaScript&logoColor=F7DF1E&style=plastic"/>
@@ -22,9 +21,20 @@
 <img alt="Sqlite" src="https://img.shields.io/badge/Code-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic"/>
 </span>
 
+
 <span>
 <img alt="CSS3" src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=1572B6&style=plastic"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Style-Bootstrap-7952B3?logo=css3&logoColor=7952B3&style=plastic"/>
 </span>
+
+</br>
+
+![](https://img.shields.io/badge/Tools-NPM-informational?style=plastic&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=plastic&logo=Yarn&color=2C8EBB)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=Postman&color=FF6C37)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=plastic&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=plastic&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
