@@ -8,7 +8,7 @@
 
 <p>I love and enjoy the entire process of developing creative websites. I love the challenge of solving problems, fixing errors and spending time to meet new people. </p>
 
-#### Technical Skills ####
+**Technical Skills**
 
 <span><img alt=”React” src="https://img.shields.io/badge/Code-ReactJs-61DAFB?logo=react&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby Router" src="https://img.shields.io/badge/Code-React%20Router-CA4245?logo=rubyonrails&logoColor=CA4245&style=plastic"/>
