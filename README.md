@@ -26,4 +26,4 @@ Outside of my professional pursuits, I have a passion for reading and exploring 
 
 
 ## Connect with Me
-🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/akintolaramota/), [Twitter]([https://twitter.com/ramatakintola/]), or here on GitHub!
+🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/akintolaramota/), [Twitter](https://twitter.com/ramatakintola/), or here on GitHub!
