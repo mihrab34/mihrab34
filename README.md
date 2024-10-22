@@ -8,6 +8,7 @@
 
 <p>I enjoy the entire process of developing creative web applications. I love the challenge of solving problems, fixing errors, and sharing my knowledge in whatever way I can </p>
 
+<!--
 ## 📈 GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,6 +18,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihrab34&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
+-->
 
 ## Professional Journey
 With experience building web applications across different industries, I have enjoyed contributing to various open-source projects to learn and explore new technologies while also honing my skills as a software engineer.
