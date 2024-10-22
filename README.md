@@ -27,6 +27,11 @@ With experience building web applications across different industries, I have en
 ## Personal Interests
 Outside of my professional pursuits, I have a passion for reading and exploring the fascinating world of fiction and fantasy. I am always eager to learn something new and enjoy trying out new hobbies.
 
+## Blogs
+<ul>
+  <li><a href="https://rahma.hashnode.dev/" target="_blank">Hashnode</a></li>
+  <li><a href="https://medium.com/@akintolarahmah" target="_blank">Medium</a></li>
+</ul>
 
 ## Connect with Me
 🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/akintolaramota/), [Twitter](https://twitter.com/ramatakintola/), or here on GitHub!
