@@ -1,15 +1,16 @@
-<p align=”center”>
+<div align=”center”>
 
 <img src="https://user-images.githubusercontent.com/35562131/163212057-84cf4bec-f6df-4868-acc5-7fffe85472fd.png" alt="my github profile banner">
 
-</p>
+<p>👋 Hi there, I'm Rahmat, a full-stack developer and an open-source enthusiast.</p>
 
-👋 Hi there, I'm Rahmat, a full-stack developer and an open-source enthusiast.
-
-<p>I enjoy the entire process of developing creative web applications. I love the challenge of solving problems, fixing errors, and sharing my knowledge in whatever way I can </p>
-
+<p>I enjoy the entire process of developing creative web applications. I love the challenge of solving problems, and sharing my knowledge in whatever way I can </p>
+<hr>
+<p><a href="https://github.com/mihrab34/mihrab34#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mihrab34&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
+<p><a href="https://github.com/mihrab34/mihrab34#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mihrab34&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
+</div>
 <!--
-## 📈 GitHub Stats 
+## 📈 GitHub Stats https://github.com/mihrab34/mihrab34
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mihrab34&show_icons=true&theme=transparent" />
