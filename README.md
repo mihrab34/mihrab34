@@ -29,8 +29,8 @@ Outside of my professional pursuits, I have a passion for reading and exploring 
 
 ## Blogs
 <ul>
-  <li><a href="https://rahma.hashnode.dev/" target="_blank">Hashnode</a></li>
-  <li><a href="https://medium.com/@akintolarahmah" target="_blank">Medium</a></li>
+  <li><a href=https://rahma.hashnode.dev/ target="_blank">Hashnode</a></li>
+  <li><a href=https://medium.com/@akintolarahmah target="_blank">Medium</a></li>
 </ul>
 
 ## Connect with Me
